@@ -1,4 +1,4 @@
-# Archive Bot
+# Archiver IR Bot
 
 A telegram bot that allows compression of multiple files into a ZIP archive
 
